@@ -1,0 +1,7 @@
+[package]
+name = "fsportal"
+version = "0.1.0"
+authors = ["Chad Austin <chad@chadaustin.me>"]
+
+[dependencies]
+inotify = "^0.2.3"
